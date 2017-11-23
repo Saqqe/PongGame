@@ -34,7 +34,6 @@ public class Player implements GameObject {
 
     @Override
     public void update() {
-
     }
 
     public void update(Point point) {
